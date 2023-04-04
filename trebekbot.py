@@ -1,6 +1,4 @@
 import requests
-import os
-import openai
 import tweepy
 import time
 
